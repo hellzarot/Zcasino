@@ -1,0 +1,8 @@
+#!/usr/local/bin/python3.10
+
+a = float(input( "veuillez saisir le premier nombre: "))
+b = float(input("veuillez saisir le second nombre: "))
+
+c= str( a+b)
+
+print("la somme de a et de b = " + c)
