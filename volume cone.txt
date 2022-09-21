@@ -1,7 +1,0 @@
-#!/usr/local/bin/python3.10
-
-rayon = float(input("veuillez saisir le rayon de votre cone droit: "))
-hauteur = float(input(" veuillez saisir la hauteur de votre cone droit"))
-
-volume = (3.14*rayon**2*hauteur/3)
-print(volume)

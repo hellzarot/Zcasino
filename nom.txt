@@ -1,6 +1,0 @@
-
-#!/usr/local/bin/python3.10
-
-
-nom = input("vueuillez rentrer votre nom : ")
-print ("bonjour Sir " + nom)
